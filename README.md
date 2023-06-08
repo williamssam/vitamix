@@ -18,8 +18,10 @@ My Vite + Typescript starter template.
 Use [degit](https://github.com/Rich-Harris/degit) to clone this repo to your local machine with an empty git history
 
 ```
-npx degit wtchnm/Vitamin#main my-app
+npx degit williamssam/vitamix my-app
 ```
+
+Replace <code>my-app</code> with your projects name.
 
 Then, install the dependencies:
 
