@@ -1,6 +1,6 @@
 # Vitamix
 
-My Vite + Typescript starter template.
+My Vite + React + Typescript starter template.
 
 ## Features
 
