@@ -37,3 +37,4 @@ You can only use <code>pnpm</code> as your package manager. To use other package
 
 -  [Nice Modals](https://github.com/eBay/nice-modal-react): To manage mutiple modals in your app.
 -  [Tanstack Router](https://tanstack.com/router/v1/docs/overview): for typesafe routing
+-  [Rehookify Date picker](https://github.com/rehookify/datepicker): for creating calender, date picker etc
