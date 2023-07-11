@@ -32,3 +32,8 @@ pnpm install
 ## Gotchas
 
 You can only use <code>pnpm</code> as your package manager. To use other package manager like <code>yarn</code> or <code>npm</code>, remove <code>"preinstall": "npx only-allow pnpm"</code> from package.json
+
+## Other intersting package you can use
+
+-  [Nice Modals](https://github.com/eBay/nice-modal-react): To manage mutiple modals in your app.
+-  [Tanstack Router](https://tanstack.com/router/v1/docs/overview): for typesafe routing
