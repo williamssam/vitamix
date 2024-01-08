@@ -6,8 +6,8 @@ const queryClient = new QueryClient({
 	defaultOptions: {
 		queries: {
 			refetchOnWindowFocus: false,
-			staleTime: 20 * (60 * 1000),
-			cacheTime: 25 * (60 * 1000),
+			staleTime: 20 * (60 * 1000), // 20i=mins
+			gcTime: 25 * (60 * 1000), // 25mins
 			refetchOnMount: import.meta.env.PROD,
 		},
 	},
