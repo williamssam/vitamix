@@ -33,9 +33,16 @@ pnpm install
 
 You can only use <code>pnpm</code> as your package manager. To use other package manager like <code>yarn</code> or <code>npm</code>, remove <code>"preinstall": "npx only-allow pnpm"</code> from package.json
 
+## TODOS
+- Use "tanstack router" as the default router
+- Use "ofetch" as the default data fetching library
+
 ## Other intersting package you can use
 
 -  [Nice Modals](https://github.com/eBay/nice-modal-react): To manage mutiple modals in your app.
 -  [Tanstack Router](https://tanstack.com/router/v1/docs/overview): for typesafe routing
 -  [Rehookify Date picker](https://github.com/rehookify/datepicker): for creating calender, date picker etc
 -  [Container Queries](https://github.com/tailwindlabs/tailwindcss-container-queries): Tailwind plugin for css container queries
+-  [Use SWR](https://swr.vercel.app/): For data fetching
+-  [React Aria/React Aria components](https://react-spectrum.adobe.com/react-aria/components.html): For accessible unstyled react components
+-  [Ark UI](https://ark-ui.com/): For accessible unstyled components

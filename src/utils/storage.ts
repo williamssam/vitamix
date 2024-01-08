@@ -1,5 +1,7 @@
 import Cookies from 'js-cookie'
 
-export const setAccessToken = (token: string) => Cookies.set('wustomers', token)
-export const getAccessToken = () => Cookies.get('wustomers')
-export const removeAccessToken = () => Cookies.remove('wustomers')
+const cookie_name = ''
+
+export const setAccessToken = (token: string) => Cookies.set(cookie_name, token)
+export const getAccessToken = () => Cookies.get(cookie_name)
+export const removeAccessToken = () => Cookies.remove(cookie_name)
