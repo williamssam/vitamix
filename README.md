@@ -35,7 +35,7 @@ You can only use <code>pnpm</code> as your package manager. To use other package
 
 ## TODOS
 - Use "tanstack router" as the default router
-- Use "ofetch" as the default data fetching library
+- Use "ky" as the default data fetching library
 
 ## Other intersting package you can use
 
@@ -46,3 +46,4 @@ You can only use <code>pnpm</code> as your package manager. To use other package
 -  [Use SWR](https://swr.vercel.app/): For data fetching
 -  [React Aria/React Aria components](https://react-spectrum.adobe.com/react-aria/components.html): For accessible unstyled react components
 -  [Ark UI](https://ark-ui.com/): For accessible unstyled components
+-  [Justd](https://getjustd.com/docs/getting-started/introduction): for unstyled react aria components
